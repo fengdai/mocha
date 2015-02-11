@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mocha Sample</string>
+    <string name="title_activity_main">Mocha Sample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_formatter">Clicked: %d</string>
+</resources>

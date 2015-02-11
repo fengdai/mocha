@@ -1,0 +1,15 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.0.1'
+        classpath 'org.aspectj:aspectjtools:1.8.1'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
