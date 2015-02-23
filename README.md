@@ -4,8 +4,7 @@ To avoid multiple rapid clicks on Android's Views with a single annotation "```@
 button.setOnClickListener(new View.OnClickListener() {
     @GuardClick
     public void onClick(View v) {
-        mClickCount++;
-        showClickCount(clickCountTextView);
+        // do your magic.
     }
 });
 ```
